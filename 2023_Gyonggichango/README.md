@@ -1,10 +1,5 @@
 # 2023 Gyonggichango Mentoring
 
-Worked with: JAKorea
-Period: Jul. 2023 ~ Aug. 2023
-
-## 2023 Gyonggichango Mentoring
-
 > Mentoring , Jul. 2023 ~ Aug. 2023
 > 
 
