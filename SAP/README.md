@@ -1,10 +1,5 @@
 # SAP- Solve it together Mentoring
 
-Worked with: JAKorea, SAP
-Period: Aug. 2023 ~ Sep. 2023
-
-## SAP- Solve it together Mentoring
-
 > Mentoring , Jul. 2023 ~ Aug. 2023
 > 
 
