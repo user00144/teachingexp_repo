@@ -1,9 +1,4 @@
-# Basic Tutoring : Stepping Stone Tutoring (24-1)
-
-Worked with: Kyonggi University
-Period: Mar. 2024 ~ June. 2024
-
-## Basic Tutoring : Stepping Stone Tutoring 24-1
+# Basic Tutoring : Stepping Stone Tutoring 24-1
 
 > Mentoring , Mar. 2024 ~ Jun. 2024
 > 
